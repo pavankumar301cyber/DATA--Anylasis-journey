@@ -1,2 +1,2 @@
 # DATA--Anylasis-journey
-My journey is to master "DATA ANYLIST" [ SQL,PYTHON,EXCEL,POWER BI ]
+My journey is to master "DATA ANAYLIST" [ SQL,PYTHON,EXCEL,POWER BI ]
